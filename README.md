@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Justin 👋
-# About Me
+# 👋Hi, I'm Justin👋
+# 👁️About Me👁️
 - I am a college graduate of Cal State University Long Beach, with a B.S. in CS.
 
 🪨Tech Stack🪨
