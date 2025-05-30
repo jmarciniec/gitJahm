@@ -1,2 +1,2 @@
 # gitJahm
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,androidstudio,aws,bootstrap,c,cs,css,cpp,debian,eclipse,figma,firebase,html,instagram,js,kali,kotlin,kubernetes,linux,matlab,mongodb,mysql,nodejs,npm,py,tensorflow,react,ubuntu,vim,)](https://skillicons.dev)
