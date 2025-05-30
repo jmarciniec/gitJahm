@@ -1,2 +1,3 @@
-# gitJahm
-[![My Skills](https://skillicons.dev/icons?i=ableton,androidstudio,aws,bootstrap,c,cs,css,cpp,debian,eclipse,figma,firebase,html,instagram,js,kali,kotlin,kubernetes,linux,matlab,mongodb,mysql,nodejs,npm,py,tensorflow,react,ubuntu,vim,)](https://skillicons.dev)
+# Hi, I'm Justin
+# About Me
+[![My Skills](https://skillicons.dev/icons?i=ableton,androidstudio,aws,bootstrap,c,cs,css,cpp,py,kotlin,debian,eclipse,pycharm,kubernetes,kali,figma,firebase,html,instagram,js,linux,matlab,mongodb,nodejs,npm,py,tensorflow,react,ubuntu,vim,)](https://skillicons.dev)
